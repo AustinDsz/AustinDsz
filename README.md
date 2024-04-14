@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Javascript**
 
-- 👨‍💻 All of my projects are available at [austindsz.github.io/MyPortfolio/](austindsz.github.io/MyPortfolio/)
+- 👨‍💻 All of my projects are available at [austindsz.github.io/MyPortfolio/](https://austindsz.github.io/MyPortfolio/)
 
 - 💬 Ask me about **ReactJS, Web-Development**
 
