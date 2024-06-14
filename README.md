@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **austindsz21@gmail.com**
 
-- ⚡ Fun fact **I think i'm short and funny**
+- ⚡ Fun fact **I think i'm tall and funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
