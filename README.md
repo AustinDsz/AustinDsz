@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=austindsz&label=Profile%20views&color=0e75b6&style=flat" alt="austindsz" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, Javascript**
+- 🌱 I’m currently learning **Angular, Supabase**
 
 - 👨‍💻 All of my projects are available at **[austindsz.github.io/MyPortfolio/](https://austindsz.github.io/MyPortfolio/)**
 
-- 💬 Ask me about **ReactJS, Web-Development**
+- 💬 Ask me about **Angular, Web-Development**
 
 - 📫 How to reach me **austindsz21@gmail.com**
 
